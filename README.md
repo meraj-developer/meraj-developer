@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/meraj-developer/meraj-developer/blob/main/Untitled%20design.png" alt="logo">
+  <img src="https://github.com/meraj-developer/meraj-developer/blob/main/BANNER.png" alt="logo">
 </div>
 <h1 align="center">Hi 👋, I'm Md Meraj</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
